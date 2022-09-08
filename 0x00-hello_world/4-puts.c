@@ -1,17 +1,12 @@
 #include <stdio.h>
-
 /**
+ *  print_program - Entry point
  *
- * * print_program - Prints "Programming is like building"
+ *  Return: 0
  *
- * * Return: 0
- *
- * */
-
-int print_program()
-
+ */
+int print_program(void)
 {
-       	puts("Programming is like building a multilingual puzzle\n");
-       	return 0;
-
+	puts("Programming is like building a multilingual puzzle\n");
+	return (0);
 }
