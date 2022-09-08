@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int intTyppe;
+	int intType;
 	long int intLongType;
 	long long int intLongLongType;
 	char charType;
