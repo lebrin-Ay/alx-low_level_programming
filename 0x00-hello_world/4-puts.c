@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- *  print_program - Entry point
+ *  main - Entry point
  *
  *  Return: 0
  *
  */
-int print_program(void)
+int main(void)
 {
 	puts("Programming is like building a multilingual puzzle\n");
 	return (0);
