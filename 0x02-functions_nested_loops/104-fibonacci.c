@@ -23,7 +23,7 @@ int main(void)
 		c = a + b;
 		if (add < 98)
 		{
-			printf(",");
+			printf(", ");
 		}
 	}
 	printf("\n");
