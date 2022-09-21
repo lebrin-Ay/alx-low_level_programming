@@ -12,5 +12,6 @@ int _atoi(char *s);
 void reverse_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 char *string_toupper(char *s);
+char *rot13(char *s);
 
 #endif
