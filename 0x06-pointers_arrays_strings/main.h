@@ -13,5 +13,7 @@ void reverse_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 char *string_toupper(char *s);
 char *rot13(char *s);
+void print_number(int n);
+int _putchar(char c);
 
 #endif
